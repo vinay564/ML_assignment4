@@ -3,7 +3,7 @@
  ### Student Details
  Name: Vinay Manavarthi <br/>
  700:700731595 <br/>
- Assignement: 02 <br/>
+ Assignement: 04 <br/>
  Subject:Machine Learning (CS5710) <br/>
  CRN:12664 <br/>
 ### Video Details 
